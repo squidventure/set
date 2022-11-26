@@ -1,4 +1,4 @@
-module set
+module github.com/squidventure/set
 
 go 1.19
 
